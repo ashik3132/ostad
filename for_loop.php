@@ -1,21 +1,21 @@
 <?php
 
 
-for ($i = 2; $i<=10; $i+=2){
-    // if($i % 2 == 0){
-    //     echo $i . "\n"
-    // }
-    echo " this is $i" . "\n";
-}
-
-
-
-// for ($i = 2; $i<=12; $i+=2){
-//     if($i % 3 == 1){
-//         echo $i . "\n";
-//     }
-//     // echo $i . "\n";
+// for ($i = 2; $i<=10; $i+=2){
+//     // if($i % 2 == 0){
+//     //     echo $i . "\n"
+//     // }
+//     echo " this is $i" . "\n";
 // }
+
+
+
+for ($i = 2; $i<=12; $i+=2){
+    if($i % 3 == 1){
+        echo $i . "\n";
+    }
+    // echo $i . "\n";
+}
 
 
 // echo"This is heading\n";
